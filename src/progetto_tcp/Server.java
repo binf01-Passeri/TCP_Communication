@@ -9,7 +9,7 @@ import java.net.Socket;
 
 /**
  *
- * @author federico
+ * @author Riccardo
  */
 public class Server {
     private ServerSocket serverSocket;
