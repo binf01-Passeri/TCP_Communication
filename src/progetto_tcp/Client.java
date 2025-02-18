@@ -7,7 +7,7 @@ import java.net.ServerSocket;
 import java.net.Socket;
 /**
  *
- * @author federico
+ * @author Riccardo
  */
 public class Client {
     private String nome;
